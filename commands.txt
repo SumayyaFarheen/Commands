@@ -1,0 +1,83 @@
+man
+
+man man
+
+man-a
+
+ls
+
+ls-e
+
+ls -l
+
+ls -a
+
+ls -la
+
+ls -lh
+
+ls -15
+
+ls -ltr
+
+mkdir Sumayya
+
+cd Sumayya
+
+cd..
+
+cd.
+
+cd..
+
+cd/
+
+cd/etc
+
+cd../home
+
+mkdir Farheen
+
+cd Farheen
+
+cd../Sumayya
+sudo
+
+pwd
+
+cp
+
+touch apple
+
+In s
+
+gzip -k apple
+
+gunzip apple.z
+
+tar
+
+ifconfig
+
+sudo
+
+sudo apt installl
+
+sudo apt install net-tools
+
+ifconfig
+
+ifconfig -a
+
+ip addr(ip a)
+
+ifconfig -a
+
+ip addr (ip a)
+
+netstat -г
+
+ip a
+
+netstat -rn
+
